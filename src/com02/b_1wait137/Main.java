@@ -1,4 +1,4 @@
-package com02.b_waitNotify137;
+package com02.b_1wait137;
 
 public class Main {
 
