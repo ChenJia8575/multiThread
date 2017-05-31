@@ -6,7 +6,7 @@ package com02.i_2join180;
 public class Test {
     public static void main(String[] args) {
         try {
-            MyThrad th = new MyThrad();
+            MyThread th = new MyThread();
             th.start();
             th.join();
             System.out.println("do after MyThread done.");

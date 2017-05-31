@@ -1,9 +1,9 @@
-package com02.i_1join180;
+package com02.i_2join180;
 
 /**
  * Created by juqiang.xie on 2017/5/22.
  */
-public class MyThrad extends Thread{
+public class MyThread extends Thread{
     public void run(){
         try {
             int secondValue = (int) (Math.random()*10000);
