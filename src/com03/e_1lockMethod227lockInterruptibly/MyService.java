@@ -1,7 +1,5 @@
 package com03.e_1lockMethod227lockInterruptibly;
 
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.ReentrantLock;
 
