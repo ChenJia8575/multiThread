@@ -1,4 +1,4 @@
-package com05.a_immediate263;
+package com05.b_lazy266syncmethod;
 
 public class Run {
 
