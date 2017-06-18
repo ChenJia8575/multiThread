@@ -1,4 +1,4 @@
-package com05.innerClass273serializable;
+package com05.c_innerClass273serializable;
 
 public class MyThread extends Thread{
 	@Override

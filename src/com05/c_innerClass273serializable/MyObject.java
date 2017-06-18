@@ -1,4 +1,4 @@
-package com05.innerClass273serializable;
+package com05.c_innerClass273serializable;
 
 import java.io.ObjectStreamException;
 import java.io.Serializable;
